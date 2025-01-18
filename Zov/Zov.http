@@ -1,0 +1,6 @@
+@Zov_HostAddress = http://localhost:5062
+
+GET {{Zov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

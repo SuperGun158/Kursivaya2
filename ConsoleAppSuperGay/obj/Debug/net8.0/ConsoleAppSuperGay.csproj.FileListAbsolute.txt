@@ -1,0 +1,14 @@
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.GeneratedMSBuildEditorConfig.editorconfig
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.AssemblyInfoInputs.cache
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.AssemblyInfo.cs
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.csproj.CoreCompileInputs.cache
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/bin/Debug/net8.0/ConsoleAppSuperGay
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/bin/Debug/net8.0/ConsoleAppSuperGay.deps.json
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/bin/Debug/net8.0/ConsoleAppSuperGay.runtimeconfig.json
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/bin/Debug/net8.0/ConsoleAppSuperGay.dll
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/bin/Debug/net8.0/ConsoleAppSuperGay.pdb
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.dll
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/refint/ConsoleAppSuperGay.dll
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.pdb
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ConsoleAppSuperGay.genruntimeconfig.cache
+/home/gay/ConsoleAppSuperGay/ConsoleAppSuperGay/obj/Debug/net8.0/ref/ConsoleAppSuperGay.dll
